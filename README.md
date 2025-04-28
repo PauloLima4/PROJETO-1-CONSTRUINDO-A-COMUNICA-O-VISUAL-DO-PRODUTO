@@ -1,5 +1,3 @@
-# PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
-
 # Identidade Visual - Plataforma de Gestão de Equipes Remotas
 
 ## 1. Paleta de Cores
